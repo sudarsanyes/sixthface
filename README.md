@@ -1,7 +1,7 @@
-# sixthface
+# Sixthface
 Sixth watchface that I designed for my garmin venu 2
 
-# Getting Started With Development
+### Getting Started With Development
 - Install the Garmin SDK from garmin website: https://developer.garmin.com/connect-iq/sdk/
 - Make sure that necessary SDK is set as the **current sdk (4.2.0)** at the time of writing this document and watch face.  
 - Make sure that you have Visual Studio Code Installed with the Monkey C extension from Garmin.
