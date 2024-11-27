@@ -1,4 +1,6 @@
 # Sixthface
+![image](https://github.com/sudarsanyes/sixthface/blob/main/design_resources/Dawn.png)
+
 Sixth watchface that I designed for my garmin venu 2
 
 ### Getting Started With Development
