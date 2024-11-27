@@ -1,0 +1,5 @@
+<properties>
+    <property id="WatchFaceTheme" type="number">1</property>
+    <property id="WorldClockOffset" type="number">34</property>
+    <property id="WorldClockOffsetName" type="string">NCE</property>
+</properties>

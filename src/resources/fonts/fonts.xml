@@ -1,0 +1,4 @@
+<fonts>
+   <font id="timeFace" filename="../fonts/time_face.fnt" antialias="true" />
+   <font id="fieldFace" filename="../fonts/field_face.fnt" antialias="true" />
+</fonts>

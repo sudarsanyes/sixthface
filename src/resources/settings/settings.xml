@@ -1,0 +1,58 @@
+<settings>
+    <setting propertyKey="@Properties.WatchFaceTheme" title="Watchface Theme">
+        <settingConfig type="list">
+            <listEntry value="1">Dawn</listEntry>
+            <listEntry value="2">Spring</listEntry>
+            <listEntry value="3">Summer</listEntry>
+            <listEntry value="4">Rainbow</listEntry>
+            <listEntry value="5">Night</listEntry>
+            <listEntry value="6">Crystal</listEntry>
+            <listEntry value="7">Winter</listEntry>
+            <listEntry value="8">Lava</listEntry>
+            <listEntry value="9">Jetblack</listEntry>
+            <listEntry value="10">Pumpkin</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.WorldClockOffsetName" title="Clock Name">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.WorldClockOffset" title="Clock Offset">
+        <settingConfig type="list">
+            <listEntry value="0">UTC+0</listEntry>
+            <listEntry value="1">UTC+1</listEntry>
+            <listEntry value="2">UTC+2</listEntry>
+            <listEntry value="3">UTC+3</listEntry>
+            <listEntry value="4">UTC+3.5</listEntry>
+            <listEntry value="5">UTC+4</listEntry>
+            <listEntry value="6">UTC+4.5</listEntry>
+            <listEntry value="7">UTC+5</listEntry>
+            <listEntry value="8">UTC+5.5</listEntry>
+            <listEntry value="9">UTC+5.75</listEntry>
+            <listEntry value="10">UTC+6</listEntry>
+            <listEntry value="11">UTC+6.5</listEntry>
+            <listEntry value="12">UTC+7</listEntry>
+            <listEntry value="13">UTC+8</listEntry>
+            <listEntry value="14">UTC+9</listEntry>
+            <listEntry value="15">UTC+10</listEntry>
+            <listEntry value="16">UTC+11</listEntry>
+            <listEntry value="17">UTC+12</listEntry>
+            <listEntry value="18">UTC+12.75</listEntry>
+            <listEntry value="19">UTC+13</listEntry>
+            <listEntry value="20">UTC+14</listEntry>
+            <listEntry value="21">UTC-11</listEntry>
+            <listEntry value="22">UTC-10</listEntry>
+            <listEntry value="23">UTC-9.5</listEntry>
+            <listEntry value="24">UTC-9</listEntry>
+            <listEntry value="25">UTC-8</listEntry>
+            <listEntry value="26">UTC-7</listEntry>
+            <listEntry value="27">UTC-6</listEntry>
+            <listEntry value="28">UTC-5</listEntry>
+            <listEntry value="29">UTC-4</listEntry>
+            <listEntry value="30">UTC-3.5</listEntry>
+            <listEntry value="31">UTC-3</listEntry>
+            <listEntry value="32">UTC-2</listEntry>
+            <listEntry value="33">UTC-1</listEntry>
+            <listEntry value="34">Hide</listEntry>
+        </settingConfig>
+    </setting>
+</settings>

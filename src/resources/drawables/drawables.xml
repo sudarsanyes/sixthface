@@ -1,0 +1,27 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+
+    <bitmap id="testBg" filename="testBg.png" dithering="none" />
+    <bitmap id="defaultBg" filename="defaultBg.png" dithering="none" />
+    <bitmap id="dawnBg" filename="dawnBg.png" dithering="none" />
+    <bitmap id="springBg" filename="springBg.png" dithering="none" />
+    <bitmap id="summerBg" filename="summerBg.png" dithering="none" />
+    <bitmap id="rainbowBg" filename="rainbowBg.png" dithering="none" />
+    <bitmap id="nightBg" filename="nightBg.png" dithering="none" />
+    <bitmap id="crystalBg" filename="crystalBg.png" dithering="none" />
+    <bitmap id="winterBg" filename="winterBg.png" dithering="none" />
+    <bitmap id="lavaBg" filename="lavaBg.png" dithering="none" />
+    <bitmap id="jetblackBg" filename="jetblackBg.png" dithering="none" />
+    <bitmap id="pumpkinBg" filename="pumpkinBg.png" dithering="none" />
+
+    <bitmap id="weatherClear" filename="weather_clear.png" dithering="none" />
+    <bitmap id="weatherCloud" filename="weather_cloud.png" dithering="none" />
+    <bitmap id="weatherRain" filename="weather_rain.png" dithering="none" />
+    <bitmap id="weatherSnow" filename="weather_snow.png" dithering="none" />
+    <bitmap id="weatherWind" filename="weather_wind.png" dithering="none" />
+    <bitmap id="weatherChill" filename="weather_chill.png" dithering="none" />
+    <bitmap id="weatherHaze" filename="weather_haze.png" dithering="none" />
+    <bitmap id="weatherHail" filename="weather_hail.png" dithering="none" />
+    <bitmap id="weatherFog" filename="weather_fog.png" dithering="none" />
+    <bitmap id="weatherUnknown" filename="weather_unknown.png" dithering="none" />
+</drawables>
